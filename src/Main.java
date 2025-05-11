@@ -1,3 +1,6 @@
+// Name - Tanmoy Chakraborty
+// Rollno - 232010007058
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -33,7 +36,7 @@ public class Main extends JFrame {
     private final Font TITLE_FONT = new Font("Arial", Font.BOLD, 28);
 
     public Main() {
-        setTitle("BaraK Valley Engineering College");
+        setTitle("BVEC - (Name - Tanmoy Chakraborty , Rollno - 232010007058)");
         setSize(600, 650);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
